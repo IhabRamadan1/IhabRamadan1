@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ihab Ramadan</h1>
-<h3 align="center">Demonstrator at Ain Shams University</h3>
 <h3 align="center">Flutter Developer</h3>
-
-  <a href="[https://linkedin.com/in/ihabramadan1](https://www.freepik.com/free-vector/app-development-banner_5467426.htm#fromView=search&page=1&position=7&uuid=a0ba8f9e-af44-4eb0-bd6d-3a5fd7e4f60e)" target="blank">
+<h3 align="center">Demonstrator at Ain Shams University</h3>
+<img align="center" src="https://img.freepik.com/free-vector/app-development-banner_5467426.htm#fromView=search&page=1&position=7&uuid=a0ba8f9e-af44-4eb0-bd6d-3a5fd7e4f60e" height="300" width="600" />
 
 - I am a software engineer with a strong focus on mobile application development, particularly using Flutter. With over 2 years of experience, I have successfully delivered high-performance, cross-platform mobile applications.
 - Currently, I am working at **Execution Tech**, where I am responsible for designing, developing, and maintaining robust mobile solutions.
@@ -12,6 +11,9 @@
 <p align="left">
   <a href="https://linkedin.com/in/ihabramadan1" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ihabramadan1" height="30" width="40" />
+  </a>
+  <a href="mailto:ehabr318@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="ehabr318@gmail.com" height="30" width="40" />
   </a>
 </p>
 
