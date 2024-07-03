@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ihab Ramadan</h1>
-<h3 align="center">
-  <span id="dynamic-text">Demonstrator at Ain Shams University</span>
-</h3>
+<h3 align="center">Demonstrator at Ain Shams University</h3>
+<h3 align="center">Flutter Developer from Egypt</h3>
 
 ![App Development](https://img.freepik.com/free-vector/app-development-banner_5467426.htm)
 
 - I am a seasoned software engineer with a strong focus on mobile application development, particularly using Flutter. With over 2 years of experience, I have successfully delivered high-performance, cross-platform mobile applications.
 - Currently, I am working at **Execution Tech**, where I am responsible for designing, developing, and maintaining robust mobile solutions.
+- 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ehabr318@gmail.com)
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/18DAsGa5REE8cBttj5qtQJUYf4nz1-Udu/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
@@ -40,12 +40,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
 </p>
-
-<script>
-  const texts = ["Demonstrator at Ain Shams University", "Flutter Developer"];
-  let index = 0;
-  setInterval(() => {
-    document.getElementById('dynamic-text').textContent = texts[index];
-    index = (index + 1) % texts.length;
-  }, 3000);
-</script>
