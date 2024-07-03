@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ihab Ramadan</h1>
 <h3 align="center">Flutter Developer</h3>
 <h3 align="center">Demonstrator at Ain Shams University</h3>
-<img align="center" src="https://img.freepik.com/free-vector/software-developer-coding_23-2147627710.jpg" height="300" width="600" />
+<img align="center" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 
 - I am a software engineer with a strong focus on mobile application development, particularly using Flutter. With over 2 years of experience, I have successfully delivered high-performance, cross-platform mobile applications.
 - Currently, I am working at **Execution Tech**, where I am responsible for designing, developing, and maintaining robust mobile solutions.
