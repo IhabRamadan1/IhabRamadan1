@@ -14,7 +14,6 @@ I am a passionate software engineer specializing in mobile application developme
 - 🔭 I’m currently working on exciting Flutter projects.
 - 🌱 I’m continuously learning and exploring new technologies.
 - 💬 Ask me about Flutter, Dart, and mobile app development.
-- ⚡ Fun fact: I love solving puzzles and playing chess in my free time.
 
 ---
 
@@ -53,28 +52,12 @@ I am a passionate software engineer specializing in mobile application developme
 
 ---
 
-📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ihabramadan1&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
 🌐 **Connect with Me**
 
 Feel free to reach out for collaborations or just a friendly chat!
 
-[![Twitter](https://img.shields.io/badge/Twitter-@ihabramadan-blue?style=flat-square&logo=twitter)](https://twitter.com/ihabramadan)
-[![Instagram](https://img.shields.io/badge/Instagram-@ihabramadan-purple?style=flat-square&logo=instagram)](https://instagram.com/ihabramadan)
-
----
-
-🚀 **Recent Projects**
-
-- [Project 1](#) - Brief description of project 1.
-- [Project 2](#) - Brief description of project 2.
-- [Project 3](#) - Brief description of project 3.
+[![Twitter](https://img.shields.io/badge/Twitter-@ihabramadan-blue?style=flat-square&logo=twitter)](https://twitter.com/IhabRamadan13)
+[![Instagram](https://img.shields.io/badge/Instagram-@ihabramadan-purple?style=flat-square&logo=instagram)](https://instagram.com/IhabRamadan1)
 
 ---
 
