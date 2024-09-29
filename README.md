@@ -57,7 +57,7 @@ I am a passionate software engineer specializing in mobile application developme
 Feel free to reach out for collaborations or just a friendly chat!
 
 [![Twitter](https://img.shields.io/badge/Twitter-@ihabramadan-blue?style=flat-square&logo=twitter)](https://twitter.com/IhabRamadan13)
-[![Instagram](https://img.shields.io/badge/Instagram-@ihabramadan-purple?style=flat-square&logo=instagram)](https://instagram.com/IhabRamadan1)
+[![Instagram](https://img.shields.io/badge/Instagram-@ihabramadan-purple?style=flat-square&logo=instagram)](https://instagram.com/ihab.ramadan1)
 
 ---
 
