@@ -59,12 +59,4 @@ Feel free to reach out for collaborations or just a friendly chat!
 [![Twitter](https://img.shields.io/badge/Twitter-@ihabramadan-blue?style=flat-square&logo=twitter)](https://twitter.com/IhabRamadan13)
 [![Instagram](https://img.shields.io/badge/Instagram-@ihabramadan-purple?style=flat-square&logo=instagram)](https://instagram.com/ihab.ramadan1)
 
----
 
-✨ **Quotes I Live By**
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
----
-
-Thank you for visiting my profile! 😊
