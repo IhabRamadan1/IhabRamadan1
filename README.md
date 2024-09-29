@@ -7,7 +7,7 @@
 
 - I am a software engineer with a strong focus on mobile application development, particularly using Flutter. With over 2 years of experience, I have successfully delivered high-performance, cross-platform mobile applications.
 
-- Currently, I am working at **Execution Tech**, where I am responsible for designing, developing, and maintaining robust mobile solutions.
+- Currently, I am working at **Stock Tech**, where I am responsible for designing, developing, and maintaining robust mobile solutions.
     
 - 📫 How to reach me: [ehabr318@gmail.com](mailto:ehabr318@gmail.com)
   
