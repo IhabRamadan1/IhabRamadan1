@@ -50,21 +50,11 @@
 |------------------|-----------------------------------------------------------------------------|------|
 | **Dawinee**       | Doctors & Patients healthcare management system                             | [Doctor](https://play.google.com/store/apps/details?id=com.dawinee.doctor) \| [Patient](https://play.google.com/store/apps/details?id=com.dawinee.patient) |
 | **Educatly**      | Global platform to find & apply for study-abroad programs                   | [App Store](https://apps.apple.com/eg/app/educatly/id6737811658) |
-| **Talaqan**       | Live religious sessions & interaction between teachers & students           | [Play Store](https://play.google.com/store/apps/details?id=com.ad.talaqn) |
 | **Stock / Stock Man** | Wholesale and telesales order management systems                         | [Stock](https://play.google.com/store/apps/details?id=com.spark.stockclientapp) \| [Stock Man](https://play.google.com/store/apps/details?id=com.spark.stockdeliveryapp) |
 | **Live Jobs / Dr Recruiter** | Job platform for general and medical fields                       | [Live Jobs](https://play.google.com/store/apps/details?id=com.tech.livejobs) \| [Dr Recruiter](https://play.google.com/store/apps/details?id=com.dr_recruiter) |
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IhabRamadan1&show_icons=true&theme=tokyonight" alt="Ihab GitHub Stats"/>
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IhabRamadan1&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
 
 ## 🧠 Fun Fact
 
