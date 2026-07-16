@@ -86,14 +86,7 @@ Amazon S3 • Azure Blob Storage • Hive • SQLite • Secure Storage
 | Stock & Stock Man | Wholesale | Features, API integrations, maintenance, and production improvements |
 | Egypt Metro | Transportation | Developed from scratch as part of a team |
 
----
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IhabRamadan1&show_icons=true&theme=tokyonight" alt="Ihab GitHub Stats"/>
-</p>
 
 
 ---
