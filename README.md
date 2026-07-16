@@ -88,8 +88,12 @@ Amazon S3 • Azure Blob Storage • Hive • SQLite • Secure Storage
 
 ---
 
-## GitHub Activity
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IhabRamadan1&show_icons=true&theme=tokyonight" alt="Ihab GitHub Stats"/>
+</p>
 
 
 ---
