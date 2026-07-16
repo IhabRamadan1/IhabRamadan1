@@ -5,7 +5,11 @@ Senior Mobile Engineer specializing in Flutter
 </h3>
 
 <p align="center">
-Mobile Team Lead • Software Architecture • CI/CD • Testing • Production Delivery
+  <img
+    src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"
+    alt="Coding Animation"
+    width="60%"
+  />
 </p>
 
 ---
@@ -84,9 +88,37 @@ Amazon S3 • Azure Blob Storage • Hive • SQLite • Secure Storage
 
 ---
 
+## GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=IhabRamadan1&show_icons=true&include_all_commits=true&count_private=true"
+    alt="Ihab Ramadan GitHub Stats"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=IhabRamadan1"
+    alt="Ihab Ramadan GitHub Streak"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IhabRamadan1&layout=compact&langs_count=8"
+    alt="Most Used Languages"
+    height="165"
+  />
+</p>
+
+---
+
 ## Connect With Me
 
-<p>
+<p align="center">
   <a href="mailto:ehabr318@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
