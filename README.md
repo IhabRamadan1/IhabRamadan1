@@ -90,29 +90,7 @@ Amazon S3 • Azure Blob Storage • Hive • SQLite • Secure Storage
 
 ## GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=IhabRamadan1&show_icons=true&include_all_commits=true&count_private=true"
-    alt="Ihab Ramadan GitHub Stats"
-    height="165"
-  />
-</p>
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=IhabRamadan1"
-    alt="Ihab Ramadan GitHub Streak"
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IhabRamadan1&layout=compact&langs_count=8"
-    alt="Most Used Languages"
-    height="165"
-  />
-</p>
 
 ---
 
